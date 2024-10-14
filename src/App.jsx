@@ -85,7 +85,7 @@ function App() {
         }
         onSubmit={submitForm}
       />
-      
+
       <br></br>
 
       {currentImage ? (
@@ -115,7 +115,6 @@ function App() {
           <br></br>
         </p>
       </div>
-
       <br></br>
 
     </div>
